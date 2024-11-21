@@ -1,5 +1,12 @@
-## Hi there 👋
+## when you know, you know ⚡
+Meu nome é Camylla Santos
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+Você pode entrar em contato comigo 📫
+camylla.bernal.santos@escola.pr.gov.br
+@camyllinhadograu
 <!--
 **camyllinhadograu/camyllinhadograu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
